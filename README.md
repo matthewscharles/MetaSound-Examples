@@ -1,3 +1,18 @@
 Examples using the Metasounds Branches custom nodes.
 - [x] Bool To Audio
 - [ ] Clock Divider
+- [ ] Dust (Audio)
+- [ ] Dust (Trigger)
+- [ ] Edge
+- [ ] EDO
+- [ ] Phase Disperser
+- [ ] Shift Register
+- [ ] Slew (Audio)
+- [ ] Slew (Float)
+- [ ] Stereo Balance
+- [ ] Stereo Crossfade
+- [ ] Stereo Gain
+- [ ] Stereo Inverter
+- [ ] Stereo Width
+- [ ] Tuning
+- [ ] Zero Crossing
