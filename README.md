@@ -1,6 +1,6 @@
 Examples using the Metasounds Branches custom nodes.
 - [x] Bool To Audio
-- [ ] Clock Divider
+- [x] Clock Divider
 - [ ] Dust (Audio)
 - [ ] Dust (Trigger)
 - [ ] Edge
@@ -15,4 +15,4 @@ Examples using the Metasounds Branches custom nodes.
 - [ ] Stereo Inverter
 - [ ] Stereo Width
 - [ ] Tuning
-- [ ] Zero Crossing
+- [x] Zero Crossing
