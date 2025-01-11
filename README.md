@@ -7,12 +7,12 @@ Examples using the Metasounds Branches custom nodes.
 - [ ] EDO
 - [ ] Phase Disperser
 - [ ] Shift Register
-- [ ] Slew (Audio)
-- [ ] Slew (Float)
+- [x] Slew (Audio)
+- [x] Slew (Float)
 - [ ] Stereo Balance
 - [ ] Stereo Crossfade
 - [ ] Stereo Gain
 - [ ] Stereo Inverter
 - [ ] Stereo Width
-- [ ] Tuning
+- [x] Tuning
 - [x] Zero Crossing
