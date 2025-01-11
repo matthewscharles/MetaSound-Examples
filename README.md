@@ -4,15 +4,15 @@ Examples using the Metasounds Branches custom nodes.
 - [ ] Dust (Audio)
 - [ ] Dust (Trigger)
 - [ ] Edge
-- [ ] EDO
-- [ ] Phase Disperser
-- [ ] Shift Register
+- [x] EDO
+- [x] Phase Disperser
+- [x] Shift Register
 - [x] Slew (Audio)
 - [x] Slew (Float)
-- [ ] Stereo Balance
-- [ ] Stereo Crossfade
-- [ ] Stereo Gain
-- [ ] Stereo Inverter
-- [ ] Stereo Width
+- [x] Stereo Balance
+- [x] Stereo Crossfade
+- [x] Stereo Gain
+- [x] Stereo Inverter
+- [x] Stereo Width
 - [x] Tuning
 - [x] Zero Crossing
