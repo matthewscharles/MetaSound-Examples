@@ -1,9 +1,9 @@
 Examples using the Metasounds Branches custom nodes.
 - [x] Bool To Audio
 - [x] Clock Divider
-- [ ] Dust (Audio)
-- [ ] Dust (Trigger)
-- [ ] Edge
+- [x] Dust (Audio)
+- [x] Dust (Trigger)
+- [x] Edge
 - [x] EDO
 - [x] Phase Disperser
 - [x] Shift Register
