@@ -1,4 +1,10 @@
-This is a collection of example MetaSound Sources using the MetaSound Branches custom nodes.
+This is a collection of example MetaSound Sources using the custom nodes available within MetaSound Branches.
+
+All examples are purely synthesised, and do not require user input.  They are meant to be creative demonstrations for musical and sound design applications.
+
+To listen, install MetaSound Branches, load the MetaSoundSource corresponding to the node you want to explore, and press play.
+
+To create the nodes within your own assets, right-click in the MetaSound graph editor and look for the Branches category within Functions.
 
 For more information, please see [matthewscharles.github.io/metasound-branches](https://matthewscharles.github.io/metasound-branches)
 
